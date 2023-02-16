@@ -1,0 +1,32 @@
+body{
+  background-color:#212529;
+  /*color:#ffff;*/
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;
+  text-align:center;
+}
+
+.purple{
+  background-color:#673ab7;
+}
+.orange{
+  background-color:#ff9800; 
+}
+.blue{
+  background-color:#2196f9;
+}
+.white{
+  background-color:#ffffff;
+}
+.card{
+  display:flex;
+  align-items:center;
+  align-content:center;
+  justify-content:center;
+  border:solid black 5px;
+  padding:10px;
+  box-shadow: 10px 10px 10px black;
+  border-radius: 25px;
+}
